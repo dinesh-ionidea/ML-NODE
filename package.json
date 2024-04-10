@@ -15,16 +15,20 @@
     "@types/compression": "^1.7.5",
     "@types/cookie-parser": "^1.4.7",
     "@types/cors": "^2.8.17",
+    "@types/mysql": "^2.15.26",
     "@types/node": "^20.11.30",
     "nodemon": "^3.1.0",
     "ts-node": "^10.9.2",
     "typescript": "^5.4.3"
   },
   "dependencies": {
+    "@types/sequelize": "^4.28.20",
     "body-parser": "^1.20.2",
     "compression": "^1.7.4",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
-    "express": "^4.19.2"
+    "express": "^4.19.2",
+    "mysql": "^2.18.1",
+    "sequelize": "^6.37.2"
   }
 }
